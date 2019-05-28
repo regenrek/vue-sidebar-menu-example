@@ -1,17 +1,20 @@
-# vue-sidebar-menu-example
+# Vue Sidebar menu example
 
-Sidebar + Burger Menu Component Example
+Sidebar + Burger Menu Component Example for Websites
 
 ![](https://media.giphy.com/media/MbAfi9eu2MXmD4iRPK/giphy.gif)
 
 ## Live Demos
 
 [Codesandbox Demo](https://codesandbox.io/embed/codesandbox-iv1zc)
+
 [Codepen Demo](https://codepen.io/kkern/pen/zQLKQM)
 
-## Info
+## Features
 
-This project is part of a tutorial which i published on my blog [regenrek.com](regenrek.com).
+- Burger Menu Component
+- Sidebar Menu Component
+- The communication between Burger and Sidebar is handled via [Vue.Observable](https://vuejs.org/v2/api/#Vue-observable)
 
 ## Install Project
 
@@ -36,3 +39,7 @@ yarn run serve
 ```
 yarn run build
 ```
+
+### Additional Infos
+
+This project is part of a tutorial which i will publish on my blog [regenrek.com](regenrek.com). (WIP)
