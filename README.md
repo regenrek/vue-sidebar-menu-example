@@ -42,4 +42,4 @@ yarn run build
 
 ### Additional Infos
 
-This project is part of a tutorial which i will publish on my blog [regenrek.com](regenrek.com). (WIP)
+This project is part of a tutorial which i will publish on my blog [regenrek.com](https://regenrek.com). (WIP)
