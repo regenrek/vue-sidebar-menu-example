@@ -6,7 +6,7 @@ Sidebar + Burger Menu Component Example for Websites
 
 ## How-To
 
-You can find the tutorial on my [https://regenrek.com/posts/how-to-create-an-animated-vue-sidebar-menu-with-vue-observable/](https://regenrek.com/posts/how-to-create-an-animated-vue-sidebar-menu-with-vue-observable/)
+You can find the tutorial on my blog [here](https://regenrek.com/posts/how-to-create-an-animated-vue-sidebar-menu-with-vue-observable/)
 
 ## Live Demos
 
