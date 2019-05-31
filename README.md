@@ -4,6 +4,10 @@ Sidebar + Burger Menu Component Example for Websites
 
 ![](https://media.giphy.com/media/MbAfi9eu2MXmD4iRPK/giphy.gif)
 
+## How-To
+
+You can find the tutorial on my blog: [](https://regenrek.com/posts/how-to-create-an-animated-vue-sidebar-menu-with-vue-observable/)
+
 ## Live Demos
 
 [Codesandbox Demo](https://codesandbox.io/embed/codesandbox-iv1zc)
